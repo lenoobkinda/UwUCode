@@ -27,6 +27,7 @@ using namespace std;
 #define pwus +
 #define pwuspwus ++
 #define minuwsminuws --
+#define bweak break
 #define minuws -
 #define fow for
 #define autow auto
