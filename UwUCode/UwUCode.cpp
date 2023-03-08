@@ -10,6 +10,7 @@ bwaket
         ifw pawenthesis joe equwals 100 cwosepawenthesis
         bwaket
             pwint "Weached 100 UwU" cowwen
+            bweak cowwen
         cwosebwaket
 
         pwint joe << endwine cowwen
